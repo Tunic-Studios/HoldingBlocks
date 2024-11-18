@@ -1,11 +1,11 @@
 {
     "parent": "block/cube",
     "display": {
-		"firstperson_righthand": {
-			"rotation": [6, 0, 0],
-			"translation": [-9, -1, -5],
-			"scale": [0.8, 0.8, 0.8]
-		}
+        "firstperson_righthand": {
+            "rotation": [6, 0, 0],
+            "translation": [-9, -1, -5],
+            "scale": [0.8, 0.8, 0.8]
+        }
     },
     "textures": {
         "particle": "#front",
