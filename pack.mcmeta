@@ -1,6 +1,22 @@
 {
-  "pack": {
-    "pack_format": 15,
-    "description": "\u00A77\u00A7oHold blocks and more\n\u00A76\u00A7lCreated by \u00A7b\u00A7lTunic Studios"
-  }
+    "pack": {
+        "pack_format": 42,
+        "description": [
+            {
+                "text": "Hold blocks and more!",
+                "color": "gray"
+            },
+            {
+                "text": "\n"
+            },
+            {
+                "text": "Made by ",
+                "color": "dark_gray"
+            },
+            {
+                "text": "Tunic Studios",
+                "color": "gold"
+            }
+        ]
+    }
 }
